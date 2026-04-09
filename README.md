@@ -1,7 +1,7 @@
 # Portfólio - Pedro Henrique Narriman Lima Plácido
 
 ## 👤 Perfil Pessoal
-
+![Minha Foto Profissional](perfil.jpg)
 **Nome:** Pedro Henrique Narriman Lima Plácido
 
 **Biografia:**
