@@ -49,4 +49,4 @@ Olá! Meu nome é Pedro Henrique e sou estudante do 1º semestre de Engenharia d
 ---
 
 ## 📊 Habilidades e Competências (Slides)
-- **Apresentação Visual:** [Clique aqui para ver meus slides](COLOQUE_AQUI_O_LINK_DE_COMPARTILHAMENTO_DO_CANVA_OU_GOOGLE_SLIDES)
+- **Apresentação Visual:** [Clique aqui para ver meus slides](https://canva.link/fsic3n4cmsrnjvl)
