@@ -50,3 +50,8 @@ Olá! Meu nome é Pedro Henrique e sou estudante do 1º semestre de Engenharia d
 
 ## 📊 Habilidades e Competências (Slides)
 - **Apresentação Visual:** [Clique aqui para ver meus slides](https://canva.link/fsic3n4cmsrnjvl)
+
+- ## 🤝 Recomendações e Testemunhos
+> "O Pedro é um estudante muito competente, comunicativo e ótimo para trabalhos em grupo" 
+> **- Caio César (Colega de Engenharia - Engenharia Elétrica / Unb)**
+
