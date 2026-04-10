@@ -55,6 +55,6 @@ Olá! Meu nome é Pedro Henrique e sou estudante do 1º semestre de Engenharia d
 "O Pedro é um estudante muito competente, comunicativo e ótimo para trabalhos em grupo." 
 > **- Caio César (Colega de Engenharia - Engenharia Elétrica / Unb)**
 
-"O Pedro é excelente no quesito profissional, é prestativo e muito competente. Sempre disposta a entregar o melhor trabalho e Resolver problemas, é alguém que sempre entrega algo além do esperado." 
+"O Pedro é excelente no quesito profissional, é prestativo e muito competente. Sempre disposto a entregar o melhor trabalho e Resolver problemas, é alguém que sempre entrega algo além do esperado." 
 > **- Nicolas Velasco (Colega da Faculdade - Publicidade e Propaganda / UniCeub)**
 
