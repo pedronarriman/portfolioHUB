@@ -38,6 +38,7 @@ Olá! Meu nome é Pedro Henrique e sou estudante do 1º semestre de Engenharia d
 - Português (Nativo) 
 - Inglês (Básico) 
 
+📄 **Baixe meu Currículo:** [Clique aqui para baixar meu currículo em PDF](curriculo.pdf)
 ---
 
 ## 📁 Projetos Acadêmicos e Profissionais
