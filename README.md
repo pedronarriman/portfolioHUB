@@ -45,7 +45,7 @@ Olá! Meu nome é Pedro Henrique e sou estudante do 1º semestre de Engenharia d
 
 - **Título do Projeto:** Simulador de Caixa Eletrônico
 - **Descrição:** Projeto acadêmico prático desenvolvido com interface via linha de comando (CLI) em C. O programa simula as operações fundamentais de uma conta bancária, permitindo ao usuário realizar consultas de saldo, saques e depósitos de forma interativa. Este projeto prático foi fundamental para consolidar conceitos de lógica de programação, estruturas de controle e manipulação de variáveis.
-- **Link do código:** [Clique aqui para ver o código](Simulador-Bancario)
+- **Link do projeto:** [Clique aqui para ver o código](Simulador-Bancario)
 
 ---
 
