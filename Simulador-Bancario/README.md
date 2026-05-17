@@ -17,7 +17,7 @@ O sistema permite ao usuário realizar as seguintes operações interativas:
 - **Conceitos aplicados:** Estruturas de controle (if/else, switch case), laços de repetição (while/do-while), funções e manipulação de variáveis.
 ---
 ### 💻 Acesse o Código:
-**[👉 Clique aqui para ver o arquivo com o código fonte do Simulador](Caixa Eletrônico.c)**
+**[👉 Clique aqui para ver o arquivo com o código fonte do Simulador](banco.c)**
 
 ## 👨‍💻 Autor
 - Pedro Narriman
