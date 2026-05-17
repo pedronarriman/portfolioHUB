@@ -15,7 +15,9 @@ O sistema permite ao usuário realizar as seguintes operações interativas:
 ## 🚀 Tecnologias Utilizadas
 - **Linguagem:** C
 - **Conceitos aplicados:** Estruturas de controle (if/else, switch case), laços de repetição (while/do-while), funções e manipulação de variáveis.
-**Link do código:** [Clique aqui para ver o código](Caixa Eletrônico.c)
+---
+### 💻 Acesse o Código:
+**[👉 Clique aqui para ver o arquivo com o código fonte do Simulador](Caixa Eletrônico.c)**
 
 ## 👨‍💻 Autor
 - Pedro Narriman
