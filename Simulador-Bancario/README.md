@@ -21,3 +21,4 @@ O sistema permite ao usuário realizar as seguintes operações interativas:
 
 ## 👨‍💻 Autor
 - Pedro Narriman
+(functions.jpg)
