@@ -19,6 +19,7 @@ O sistema permite ao usuário realizar as seguintes operações interativas:
 ### 💻 Acesse o Código:
 **[👉 Clique aqui para ver o arquivo com o código fonte do Simulador](banco.c)**
 
+![Foto do código funcionando](function.png)
+
 ## 👨‍💻 Autor
 - Pedro Narriman
-![Foto do código funcionando](function.png)
